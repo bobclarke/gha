@@ -1,5 +1,5 @@
 name: GitHub Actions Demo
-run-name: ${{ github.actor }} is running tests.
+run-name: ${{ github.actor }} is running tests again.
 on:
   push:
     branches: [main]
